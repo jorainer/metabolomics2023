@@ -1,12 +1,33 @@
 # An Open Software Development-based Ecosystem of R Packages for Metabolomics Data analysis
 
+## Authors and Affiliations
+
+Andrea Vicini,
+Carloline Huber,
+Roger Gine,
+Michele Stravs,
+Josep M. Badia,
+Nir Shachaf,
+Liesa Salzer,
+Thomas Naake,
+Helge Hecht,
+Steffen Neumann,
+Michael Witting,
+Sebastian Gibb,
+Laurent Gatto,
+Johannes Rainer
+
+
+## Abstract
+
 300 words.
 
-Authors: Andrea Vicini, Caroline Huber, Roger Gine, Michele Stravs, Nir Shachaf,
-Steffen Neumann, Micheal Witting, Laurent Gatto, Sebastian Gibb, Johannes Rainer
-(who's missing?)
+Andrea Vicini, Caroline Huber, Roger Gine, Michele Stravs, Josep M Badia, Nir
+Shachaf, Liesa Salzer, Thomas Naake, Helge Hecht, Steffen Neumann, Micheal
+Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
 
-Lack of support, maintenance and further development is a common problem with
+
+Lack of support, maintenance and further development is a common issue with
 scientific research software. In particular, development by a single researcher
 can easily result in orphaned software packages especially if combined with poor
 documentation or lack of adherence to open software development standards.
@@ -16,7 +37,7 @@ documented and stable infrastructure for mass spectrometry (MS) data
 analysis. As part of this initiative a growing ecosystem of R software packages
 was, and is being, developed covering different aspects of metabolomics and
 proteomics data analysis. To avoid the aforementioned problems an emphasis is
-put on shared development, documentation, support and stability.
+put on open shared development, documentation, support and stability.
 
 At the heart of the package ecosystem is the `Spectra` package that provides the
 core infrastructure to handle MS data. Core functionality, which can be easily
@@ -35,7 +56,7 @@ create and manage lab-specific annotation resources.
 Finally, integration of Python based functionality, such as provided by the
 `matchms` package, is possible through the `SpectriPy` package, and the
 `SpectraQL` adds support for the MassQL common query language to
-R/Spectra.
+R/`Spectra`.
 
 
 ## Mentioned packages and (main) authors/contributors
