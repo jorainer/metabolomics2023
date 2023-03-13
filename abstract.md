@@ -8,7 +8,7 @@
 - Josep M. Badia,
 - Carolin Huber, Department of Effect Directed Analysis, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
 - Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich, Neuherberg, Germany
-- Jan Stanstrup,
+- Jan Stanstrup, Department of Nutrition, Exercise and Sports, University of Copenhagen, Frederiksberg, Denmark
 - Nir Shachaf,
 - Thomas Naake,
 - Helge Hecht,
@@ -36,7 +36,7 @@ documentation or lack of adherence to open software development standards.
 The RforMassSpectrometry initiative aims to develop an efficient, thoroughly
 documented and stable infrastructure for mass spectrometry (MS) data
 analysis. As part of this initiative, a growing ecosystem of R software packages
-was and is being, developed covering different aspects of metabolomics and
+was and is being developed covering different aspects of metabolomics and
 proteomics data analysis. To avoid the aforementioned problems open shared development, 
 documentation, support and stability are emphasized.
 
