@@ -6,7 +6,7 @@
 - Roger Gine,
 - Michele Stravs,
 - Josep M. Badia,
-- Caroline Huber,
+- Carolin Huber, Department of Effect Directed Analysis, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
 - Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich, Neuherberg, Germany
 - Jan Stanstrup,
 - Nir Shachaf,
@@ -23,28 +23,28 @@
 
 300 words.
 
-Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Caroline Huber, Liesa
+Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Carolin Huber, Liesa
 Salzer, Jan Stanstrup, Nir Shachaf, Thomas Naake, Helge Hecht, Steffen Neumann,
 Micheal Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
 
 
-Lack of support, maintenance and further development is a common issue with
+Lack of support, maintenance and further development is common with
 scientific research software. In particular, development by a single researcher
-can easily result in orphaned software packages especially if combined with poor
+can easily result in orphaned software packages, especially if combined with poor
 documentation or lack of adherence to open software development standards.
 
 The RforMassSpectrometry initiative aims to develop an efficient, thoroughly
 documented and stable infrastructure for mass spectrometry (MS) data
-analysis. As part of this initiative a growing ecosystem of R software packages
-was, and is being, developed covering different aspects of metabolomics and
-proteomics data analysis. To avoid the aforementioned problems an emphasis is
-put on open shared development, documentation, support and stability.
+analysis. As part of this initiative, a growing ecosystem of R software packages
+was and is being, developed covering different aspects of metabolomics and
+proteomics data analysis. To avoid the aforementioned problems open shared development, 
+documentation, support and stability are emphasized.
 
-At the heart of the package ecosystem is the `Spectra` package that provides the
+At the heart of the package ecosystem is the `Spectra` package, that provides the
 core infrastructure to handle MS data. Core functionality, which can be easily
 re-used by other R software packages, is provided by the `MsCoreUtils` and
 `MetaboCoreUtils` packages. Version 4 of the `xcms` package for LC-MS data
-pre-processing bases mainly on this new infrastructure hence gaining support for
+pre-processing is now based mainly on this new infrastructure hence gaining support for
 additional data types, better data handling and support for ion mobility
 data. Integration of the `xcms` package into the package ecosystem simplifies
 complete analysis workflows which can include the `MsFeatures` package for
