@@ -10,7 +10,7 @@
 - Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich, Neuherberg, Germany
 - Jan Stanstrup, Department of Nutrition, Exercise and Sports, University of Copenhagen, Frederiksberg, Denmark
 - Nir Shachaf,
-- Thomas Naake,
+- Thomas Naake, Genome Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
 - Helge Hecht,
 - Steffen Neumann,
 - Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich, Neuherberg, Germany
@@ -40,19 +40,21 @@ was and is being developed covering different aspects of metabolomics and
 proteomics data analysis. To avoid the aforementioned problems open shared development, 
 documentation, support and stability are emphasized.
 
+
 At the heart of the package ecosystem is the `Spectra` package, that provides the
 core infrastructure to handle MS data. Core functionality, which can be easily
 re-used by other R software packages, is provided by the `MsCoreUtils` and
 `MetaboCoreUtils` packages. Version 4 of the `xcms` package for LC-MS data
 pre-processing is now based mainly on this new infrastructure hence gaining support for
-additional data types, better data handling and support for ion mobility
-data. Integration of the `xcms` package into the package ecosystem simplifies
+additional data types (e.g. ion mobility data) and better data handling. 
+Integration of the `xcms` package into the package ecosystem simplifies
 complete analysis workflows which can include the `MsFeatures` package for
 feature grouping, and the `MetaboAnnotation` package for annotation of
 untargeted metabolomics data. Seamless integration of publicly available
 annotation resources is possible through packages such as `MsBackendMassbank`,
 `MsBackendMsp` `MsBackendWeizMass` or `CompoundDb`, the latter also allowing to
-create and manage lab-specific annotation resources.
+create and manage lab-specific annotation resources. `MsQuality` allows for
+rapid, efficient, and standardized evaluation of MS data quality. 
 
 Finally, integration of Python based functionality, such as provided by the
 `matchms` package, is possible through the `SpectriPy` package, and the
@@ -74,6 +76,7 @@ R/`Spectra`.
 - `MsCoreUtils` Laurent Gatto, Johannes Rainer, Sebastian Gibb, Thomas Naake,
   Josep M. Badia, Micheal Witting, Roger Gine.
 - `MsFeatures` Johannes Rainer
+- `MsQuality` Thomas Naake, Johannes Rainer
 - `Spectra` Laurent Gatto, Johannes Rainer, Sebastian Gibb, Jan Stanstrup
 - `SpectraQL` Johannes Rainer, Andrea Vicini, Sebastian Gibb
 - `SpectriPy` Michael Witting, Johannes Rainer, Carolin Huber, Helge Hecht
@@ -81,7 +84,7 @@ R/`Spectra`.
 
 ## Authors by number of packages
 
-- Johannes Rainer (12)
+- Johannes Rainer (13)
 - Michael Witting (6)
 - Sebastian Gibb (4)
 - Andrea Vicini (4)
@@ -94,5 +97,5 @@ R/`Spectra`.
 - Steffen Neumann (2)
 - Laurent Gatto (2)
 - Liesa Salzer (1)
-- Thomas Naake (1)
+- Thomas Naake (2)
 - Helge Hecht (1)
