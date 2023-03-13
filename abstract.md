@@ -14,7 +14,7 @@
 - Helge Hecht,
 - Steffen Neumann,
 - Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich, Neuherberg, Germany
-- Sebastian Gibb,
+- Sebastian Gibb, Anesthesiology and Intensive Care Medicine, University Hospital Greifswald, Greifswald, Germany
 - Laurent Gatto,
 - Johannes Rainer, Institute for Biomedicine, Eurac Research, Bolzano, Italy
 
