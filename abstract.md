@@ -2,20 +2,20 @@
 
 ## Authors and Affiliations
 
-Andrea Vicini,
-Carloline Huber,
-Roger Gine,
-Michele Stravs,
-Josep M. Badia,
-Nir Shachaf,
-Liesa Salzer,
-Thomas Naake,
-Helge Hecht,
-Steffen Neumann,
-Michael Witting,
-Sebastian Gibb,
-Laurent Gatto,
-Johannes Rainer
+- Andrea Vicini,
+- Caroline Huber,
+- Roger Gine,
+- Michele Stravs,
+- Josep M. Badia,
+- Nir Shachaf,
+- Liesa Salzer,
+- Thomas Naake,
+- Helge Hecht,
+- Steffen Neumann,
+- Michael Witting,
+- Sebastian Gibb,
+- Laurent Gatto,
+- Johannes Rainer
 
 
 ## Abstract
