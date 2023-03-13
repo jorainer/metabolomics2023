@@ -8,6 +8,7 @@
 - Josep M. Badia,
 - Caroline Huber,
 - Liesa Salzer,
+- Jan Stanstrup,
 - Nir Shachaf,
 - Thomas Naake,
 - Helge Hecht,
@@ -22,9 +23,9 @@
 
 300 words.
 
-Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Caroline Huber, Nir
-Shachaf, Liesa Salzer, Thomas Naake, Helge Hecht, Steffen Neumann, Micheal
-Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
+Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Caroline Huber, Liesa
+Salzer, Jan Stanstrup, Nir Shachaf, Thomas Naake, Helge Hecht, Steffen Neumann,
+Micheal Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
 
 
 Lack of support, maintenance and further development is a common issue with
