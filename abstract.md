@@ -7,12 +7,12 @@
 - Michele Stravs,
 - Josep M. Badia,
 - Caroline Huber,
-- Liesa Salzer,
+- Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich, Neuherberg, Germany
 - Nir Shachaf,
 - Thomas Naake,
 - Helge Hecht,
 - Steffen Neumann,
-- Michael Witting,
+- Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich, Neuherberg, Germany
 - Sebastian Gibb,
 - Laurent Gatto,
 - Johannes Rainer, Institute for Biomedicine, Eurac Research, Bolzano, Italy
