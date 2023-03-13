@@ -37,24 +37,23 @@ The RforMassSpectrometry initiative aims to develop an efficient, thoroughly
 documented and stable infrastructure for mass spectrometry (MS) data
 analysis. As part of this initiative, a growing ecosystem of R software packages
 was and is being developed covering different aspects of metabolomics and
-proteomics data analysis. To avoid the aforementioned problems open shared development, 
-documentation, support and stability are emphasized.
+proteomics data analysis. To avoid the aforementioned problems open shared
+development, documentation, support and stability are emphasized.
 
-
-At the heart of the package ecosystem is the `Spectra` package, that provides the
-core infrastructure to handle MS data. Core functionality, which can be easily
-re-used by other R software packages, is provided by the `MsCoreUtils` and
-`MetaboCoreUtils` packages. Version 4 of the `xcms` package for LC-MS data
-pre-processing is now based mainly on this new infrastructure hence gaining support for
-additional data types (e.g. ion mobility data) and better data handling. 
-Integration of the `xcms` package into the package ecosystem simplifies
-complete analysis workflows which can include the `MsFeatures` package for
-feature grouping, and the `MetaboAnnotation` package for annotation of
-untargeted metabolomics data. Seamless integration of publicly available
+At the heart of the package ecosystem is the `Spectra` package, that provides
+the core infrastructure to handle MS data. Core functionality, which can be
+easily re-used by other R software packages, is provided by the `MsCoreUtils`
+and `MetaboCoreUtils` packages. Version 4 of the `xcms` package for LC-MS data
+pre-processing is now based mainly on this new infrastructure hence gaining
+support for additional data types, better data handling and support for ion
+mobility data. Integration of the `xcms` package into the package ecosystem
+simplifies complete analysis workflows which can include the `MsFeatures`
+package for feature grouping, and the `MetaboAnnotation` package for annotation
+of untargeted metabolomics data. Seamless integration of publicly available
 annotation resources is possible through packages such as `MsBackendMassbank`,
 `MsBackendMsp` `MsBackendWeizMass` or `CompoundDb`, the latter also allowing to
-create and manage lab-specific annotation resources. `MsQuality` allows for
-rapid, efficient, and standardized evaluation of MS data quality. 
+create and manage lab-specific annotation resources. `MsQuality` enables rapid,
+efficient, and standardized quality assessment of MS data.
 
 Finally, integration of Python based functionality, such as provided by the
 `matchms` package, is possible through the `SpectriPy` package, and the
