@@ -54,7 +54,7 @@ untargeted metabolomics data. Seamless integration of publicly available
 annotation resources is possible through packages such as `MsBackendMassbank`,
 `MsBackendMsp` `MsBackendWeizMass` or `CompoundDb`, the latter also allowing to
 create and manage lab-specific annotation resources. `MsQuality` allows for
-rapid, efficient, and standardzved evaluation of MS data quality. 
+rapid, efficient, and standardized evaluation of MS data quality. 
 
 Finally, integration of Python based functionality, such as provided by the
 `matchms` package, is possible through the `SpectriPy` package, and the
