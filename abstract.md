@@ -3,12 +3,12 @@
 ## Authors and Affiliations
 
 - Andrea Vicini,
-- Caroline Huber,
 - Roger Gine,
 - Michele Stravs,
 - Josep M. Badia,
-- Nir Shachaf,
+- Caroline Huber,
 - Liesa Salzer,
+- Nir Shachaf,
 - Thomas Naake,
 - Helge Hecht,
 - Steffen Neumann,
@@ -22,7 +22,7 @@
 
 300 words.
 
-Andrea Vicini, Caroline Huber, Roger Gine, Michele Stravs, Josep M Badia, Nir
+Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Caroline Huber, Nir
 Shachaf, Liesa Salzer, Thomas Naake, Helge Hecht, Steffen Neumann, Micheal
 Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
 
