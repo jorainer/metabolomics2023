@@ -5,16 +5,24 @@
 - Andrea Vicini,
 - Roger Gine,
 - Michele Stravs,
-- Josep M. Badia,
-- Carolin Huber, Department of Effect Directed Analysis, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
-- Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich, Neuherberg, Germany
-- Jan Stanstrup, Department of Nutrition, Exercise and Sports, University of Copenhagen, Frederiksberg, Denmark
-- Nir Shachaf,
-- Thomas Naake, Genome Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
+- Josep M. Badia, Universitat Rovira i Virgili, Department of Electronic
+  Engineering & IISPV, Tarragona, Spain
+- Carolin Huber, Department of Effect Directed Analysis, Helmholtz Center for
+  Environmental Research, UFZ, Leipzig, Germany
+- Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich,
+  Neuherberg, Germany
+- Jan Stanstrup, Department of Nutrition, Exercise and Sports, University of
+  Copenhagen, Frederiksberg, Denmark
+- Nir Shahaf, Department of Plant and Environmental Sciences, Weizmann Institute
+  of Science, Rehovot, Israel
+- Thomas Naake, Genome Biology Unit, European Molecular Biology Laboratory,
+  Heidelberg, Germany
 - Helge Hecht,
 - Steffen Neumann,
-- Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich, Neuherberg, Germany
-- Sebastian Gibb, Anesthesiology and Intensive Care Medicine, University Hospital Greifswald, Greifswald, Germany
+- Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich,
+  Neuherberg, Germany
+- Sebastian Gibb, Anesthesiology and Intensive Care Medicine, University
+  Hospital Greifswald, Greifswald, Germany
 - Laurent Gatto,
 - Johannes Rainer, Institute for Biomedicine, Eurac Research, Bolzano, Italy
 
@@ -24,7 +32,7 @@
 300 words.
 
 Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Carolin Huber, Liesa
-Salzer, Jan Stanstrup, Nir Shachaf, Thomas Naake, Helge Hecht, Steffen Neumann,
+Salzer, Jan Stanstrup, Nir Shahaf, Thomas Naake, Helge Hecht, Steffen Neumann,
 Micheal Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
 
 
@@ -51,7 +59,7 @@ simplifies complete analysis workflows which can include the `MsFeatures`
 package for feature grouping, and the `MetaboAnnotation` package for annotation
 of untargeted metabolomics data. Seamless integration of publicly available
 annotation resources is possible through packages such as `MsBackendMassbank`,
-`MsBackendMsp` `MsBackendWeizMass` or `CompoundDb`, the latter also allowing to
+`MsBackendMsp` or `CompoundDb`, the latter also allowing to
 create and manage lab-specific annotation resources. `MsQuality` enables rapid,
 efficient, and standardized quality assessment of MS data.
 
@@ -71,7 +79,6 @@ R/`Spectra`.
   Gibb, Michael Stravs, Roger Gine, Johannes Rainer
 - `MsBackendMassbank` Michael Witting, Johannes Rainer, Michael Stravs
 - `MsBackendMsp` Steffen Neumann, Johannes Rainer, Michael Witting
-- `MsBackendWeizMass` Johannes Rainer, Nir Shachaf
 - `MsCoreUtils` Laurent Gatto, Johannes Rainer, Sebastian Gibb, Thomas Naake,
   Josep M. Badia, Micheal Witting, Roger Gine.
 - `MsFeatures` Johannes Rainer
@@ -83,7 +90,7 @@ R/`Spectra`.
 
 ## Authors by number of packages
 
-- Johannes Rainer (13)
+- Johannes Rainer (12)
 - Michael Witting (6)
 - Sebastian Gibb (4)
 - Andrea Vicini (4)
@@ -91,7 +98,7 @@ R/`Spectra`.
 - Jan Stanstrup (3)
 - Josep M Badia (2)
 - Carolin Huber (2)
-- Nir Shachaf (2)
+- Nir Shachaf (1)
 - Michael Stravs (2)
 - Steffen Neumann (2)
 - Laurent Gatto (2)
