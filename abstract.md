@@ -18,7 +18,7 @@
 - Thomas Naake, Genome Biology Unit, European Molecular Biology Laboratory,
   Heidelberg, Germany
 - Helge Hecht,
-- Steffen Neumann,
+- Steffen Neumann, Computational Plant Biochemistry, MetaCom, Leibniz Institute of Plant Biochemistry
 - Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich,
   Neuherberg, Germany
 - Sebastian Gibb, Anesthesiology and Intensive Care Medicine, University
