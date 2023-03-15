@@ -4,7 +4,7 @@
 
 - Andrea Vicini, Computational Biology and Bioinformatics, de Duve Institute, UCLouvain, Brussels, Belgium
 - Roger Giné, Universitat Rovira i Virgili, Department of Electronic Engineering & IISPV, Tarragona, Spain
-- Michele Stravs,
+- Michele Stravs, Department of Environmental Chemistry, Eawag, Dübendorf, Switzerland; Institute of Molecular Systems Biology, ETH Zürich, Zürich, Switzerland
 - Josep M. Badia, Universitat Rovira i Virgili, Department of Electronic
   Engineering & IISPV, Tarragona, Spain
 - Carolin Huber, Department of Effect Directed Analysis, Helmholtz Center for
