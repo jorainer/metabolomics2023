@@ -3,7 +3,7 @@
 ## Authors and Affiliations
 
 - Andrea Vicini,
-- Roger Gine,
+- Roger Giné, Universitat Rovira i Virgili, Department of Electronic Engineering & IISPV, Tarragona, Spain
 - Michele Stravs,
 - Josep M. Badia, Universitat Rovira i Virgili, Department of Electronic
   Engineering & IISPV, Tarragona, Spain
@@ -31,7 +31,7 @@
 
 300 words.
 
-Andrea Vicini, Roger Gine, Michele Stravs, Josep M Badia, Carolin Huber, Liesa
+Andrea Vicini, Roger Giné, Michele Stravs, Josep M Badia, Caroline Huber, Liesa
 Salzer, Jan Stanstrup, Nir Shahaf, Thomas Naake, Helge Hecht, Steffen Neumann,
 Micheal Witting, Sebastian Gibb, Laurent Gatto, Johannes Rainer
 
@@ -71,22 +71,22 @@ R/`Spectra`.
 
 ## Mentioned packages and (main) authors/contributors
 
-- `CompoundDb` Jan Stanstrup, Josep M. Badia, Roger Gine, Andrea Vicini,
+- `CompoundDb` Jan Stanstrup, Josep M. Badia, Roger Giné, Andrea Vicini,
   Johannes Rainer.
 - `MetaboAnnotation` Michael Witting, Andrea Vicini, Carolin Huber, Nir Shachaf,
   Johannes Rainer
 - `MetaboCoreUtils` Michael Witting, Andrea Vicini, Liesa Salzer, Sebastian
-  Gibb, Michael Stravs, Roger Gine, Johannes Rainer
+  Gibb, Michael Stravs, Roger Giné, Johannes Rainer
 - `MsBackendMassbank` Michael Witting, Johannes Rainer, Michael Stravs
 - `MsBackendMsp` Steffen Neumann, Johannes Rainer, Michael Witting
 - `MsCoreUtils` Laurent Gatto, Johannes Rainer, Sebastian Gibb, Thomas Naake,
-  Josep M. Badia, Micheal Witting, Roger Gine.
+  Josep M. Badia, Micheal Witting, Roger Giné.
 - `MsFeatures` Johannes Rainer
 - `MsQuality` Thomas Naake, Johannes Rainer
 - `Spectra` Laurent Gatto, Johannes Rainer, Sebastian Gibb, Jan Stanstrup
 - `SpectraQL` Johannes Rainer, Andrea Vicini, Sebastian Gibb
 - `SpectriPy` Michael Witting, Johannes Rainer, Carolin Huber, Helge Hecht
-- `xcms` Steffen Neumann, Johannes Rainer, Roger Gine, Jan Stanstrup
+- `xcms` Steffen Neumann, Johannes Rainer, Roger Giné, Jan Stanstrup
 
 ## Authors by number of packages
 
@@ -94,7 +94,7 @@ R/`Spectra`.
 - Michael Witting (6)
 - Sebastian Gibb (4)
 - Andrea Vicini (4)
-- Roger Gine (4)
+- Roger Giné (4)
 - Jan Stanstrup (3)
 - Josep M Badia (2)
 - Carolin Huber (2)
