@@ -23,7 +23,7 @@
   Neuherberg, Germany
 - Sebastian Gibb, Anesthesiology and Intensive Care Medicine, University
   Hospital Greifswald, Greifswald, Germany
-- Laurent Gatto,
+- Laurent Gatto, Computational Biology and Bioinformatics, de Duve Institute, UCLouvain, Brussels, Belgium
 - Johannes Rainer, Institute for Biomedicine, Eurac Research, Bolzano, Italy
 
 
