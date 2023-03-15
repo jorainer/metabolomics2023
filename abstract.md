@@ -2,7 +2,7 @@
 
 ## Authors and Affiliations
 
-- Andrea Vicini,
+- Andrea Vicini, Computational Biology and Bioinformatics, de Duve Institute, UCLouvain, Brussels, Belgium
 - Roger Giné, Universitat Rovira i Virgili, Department of Electronic Engineering & IISPV, Tarragona, Spain
 - Michele Stravs,
 - Josep M. Badia, Universitat Rovira i Virgili, Department of Electronic
