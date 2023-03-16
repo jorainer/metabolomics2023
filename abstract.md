@@ -17,7 +17,7 @@
   of Science, Rehovot, Israel
 - Thomas Naake, Genome Biology Unit, European Molecular Biology Laboratory,
   Heidelberg, Germany
-- Helge Hecht,
+- Helge Hecht, RECETOX, Masaryk University, Brno, Czech Republic
 - Steffen Neumann, Computational Plant Biochemistry, MetaCom, Leibniz Institute of Plant Biochemistry
 - Michael Witting, Metabolomics and Proteomics Core, Helmholtz Munich,
   Neuherberg, Germany
